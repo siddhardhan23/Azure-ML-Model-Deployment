@@ -2,6 +2,6 @@ This repo contains required code to deploy a trained ML model on Azure as endpoi
 
 Video Reference:
 
-YouTube Channel: 
+YouTube Channel (Siddhardhan): 
 
 Complete Machine Learning Course in YouTube: 
